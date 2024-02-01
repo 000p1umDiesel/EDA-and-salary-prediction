@@ -1,4 +1,4 @@
-# EDA-analysis-and-wage-prediction
+# EDA-and-wage-prediction
 
 # Анализ топ профессий за период 2020-2022 года и предсказание их заработной платы
 
