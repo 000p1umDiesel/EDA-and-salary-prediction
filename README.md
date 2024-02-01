@@ -5,8 +5,7 @@
 # Работа была сделана для тренировки EDA и машинного обучения 
 
 # Данные были предоставлен с Kaggle:
-<a href="https://www.kaggle.com/datasets/ruchi798/data-science-job-salaries">link</a>
-https://www.kaggle.com/datasets/ruchi798/data-science-job-salaries
+# <a href="https://www.kaggle.com/datasets/ruchi798/data-science-job-salaries">link</a>
 
 # Работа разбита на 4 части:
 1. Обработка пропущенных элементов
